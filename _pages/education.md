@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+Education
 ======
 * B.S. in QingDao University, 2018
 * M.S. in SouthEast University, 2022 (Currently)
