@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qingchun Meng(孟庆纯)"
-  avatar           : "mqc.png"
+  name             : "Qingchun Meng (孟庆纯)"
+  # avatar           : "mqc.png"
   bio              : "A postgraduate student at Southeast University"
   location         : "China"
   employer         :
