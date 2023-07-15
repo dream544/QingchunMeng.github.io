@@ -11,6 +11,5 @@ redirect_from:
 
 Education
 ======
-* B.S. in xxx University, 2012
-* M.S. in xxx University, 2014
-* Ph.D in xxx University, 2018 (expected)
+* B.S. in QingDao University, 2018
+* M.S. in SouthEast University, 2022 (Currently)
