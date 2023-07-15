@@ -9,11 +9,11 @@
 locale                   : "China"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "ZiHaoZhang"
+name                     : &name "QingchunMeng"
 description              : &description "personal description"
-url                      : https://kevin33433.github.io/ZiHaoZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dream544.github.io/QingchunMeng.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "/ZiHaoZhang.github.io"
+repository               : "/QingchunMeng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zihao Zhang(张子豪)"
-  avatar           : "zzh.png"
+  name             : "Qingchun Meng(孟庆纯)"
+  avatar           : "mqc.png"
   bio              : "A postgraduate student at Southeast University"
   location         : "China"
   employer         :
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "2541348040@qq.com"
+  email            : "2457274416@qq.com"
   researchgate     : 
   uri              :
   bitbucket        :
