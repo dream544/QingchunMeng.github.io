@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-ZiHao Zhang  is a Research 0 students and working toward the M.Sc. degree in the School of Cyber Science and Engineering, Southeast University, Nanjing, China, under the supervision of Dr. Guyue Li. 
+Qingchun Meng  is currently working towards the M.S. degree in the School of Cyber Science and Engineering from Southeast University, Nanjing, China. Her research interests include physical layer security, radio frequency fingerprint and wireless sensing.
+
 个人信息
 
 Position held
